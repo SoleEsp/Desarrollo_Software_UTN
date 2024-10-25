@@ -24,4 +24,4 @@ Funcionalidad JavaScript
     
     ○	 Permite a los usuarios eliminar productos, actualizando tanto el DOM como localStorage
 
-
+En index.html se encuentra el body y head de la pagina mientras que los stilos css estan en style.css. En main.js y dentro de la carpeta scr se enuentran arcivos js para el funcionamiento con funciones
