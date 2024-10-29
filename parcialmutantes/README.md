@@ -42,30 +42,11 @@ https://parcial-magneto.onrender.com
 
 Ejemplo de matriz **MUTANTE**:
 
-```json
-{
-    "dna": [
-      "ATGCGA",
-      "CAGTGC",
-      "TTATGT",
-      "AGAAAG",
-      "CCCCTA",
-      "TCACTG"
-    ]
-}
-```
+String[] dna = {
+    "ATGCGA",
+    "CAGTGC",   
+    "TTATGT",
+    "AGAAGG",
+    "CCCCTA",
+    "TCACTG"};
 
-Ejemplo de matriz **NO MUTANTE**:
-
-```json
-{
-    "dna": [
-      "ATGGTG",
-      "GTCTTA",
-      "AATTGG",
-      "ACTAGT",
-      "GGATTC", 
-      "AGGCAA"
-    ]
-}
-```
