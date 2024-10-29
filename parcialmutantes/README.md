@@ -12,7 +12,6 @@ El proyecto see hizo con a Render y se puede acceder con el siguiente link:
 
 https://parcial-magneto.onrender.com
 
-### Endpoints
 
 - **POST** /mutant - Recibe un JSON con la matriz de ADN a verificar. Ejemplo:
 
@@ -43,6 +42,7 @@ https://parcial-magneto.onrender.com
 Ejemplo de matriz **MUTANTE**:
 
 String[] dna = {
+
     "ATGCGA",
     "CAGTGC",   
     "TTATGT",
