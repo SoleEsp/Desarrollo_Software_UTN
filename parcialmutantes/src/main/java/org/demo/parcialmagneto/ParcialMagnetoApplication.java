@@ -9,7 +9,7 @@ public class ParcialMagnetoApplication {
     public static void main(String[] args) {
         SpringApplication.run(ParcialMagnetoApplication.class, args);
 
-        System.out.println("Aplcacion andando");
+        System.out.println("Funcionando");
     }
 
 }
