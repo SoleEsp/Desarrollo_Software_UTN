@@ -5,8 +5,6 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
 
 public class DnaServiceTest {
 
-    // ====================================================================================================
-    // Tests cubriendo todas las secuencias de matriz 6x6
     @Test
     public void testRows() {
         String[] dna = {
@@ -112,8 +110,7 @@ public class DnaServiceTest {
     }
 
 
-    // ====================================================================================================
-    // Tests brindados por el profesor
+
     @Test
     public void testMutant1() {
         String[] dna = {
